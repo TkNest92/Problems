@@ -3,6 +3,8 @@
 1. 영어 끝말잇기
 https://school.programmers.co.kr/learn/courses/30/lessons/12981
 python3
+
+
 '''
     def solution(n, words):
         answer = []
@@ -35,6 +37,8 @@ python3
  2. K Closest Points to Origin
     https://leetcode.com/problems/k-closest-points-to-origin/
     python3
+
+
 '''    
         class Solution:
             def kClosest(self, points: list[list[int]], k: int) -> list[list[int]]:
