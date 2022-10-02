@@ -1,6 +1,7 @@
 
 
 1. 영어 끝말잇기
+
 https://school.programmers.co.kr/learn/courses/30/lessons/12981
 
 python3
@@ -37,6 +38,7 @@ python3
     
  
  2. K Closest Points to Origin
+ 
     https://leetcode.com/problems/k-closest-points-to-origin/
     
     python3
