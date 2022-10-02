@@ -6,6 +6,7 @@ python3
 
 
 '''
+
     def solution(n, words):
         answer = []
         checklist = []
@@ -40,6 +41,7 @@ python3
 
 
 '''    
+
         class Solution:
             def kClosest(self, points: list[list[int]], k: int) -> list[list[int]]:
                 answer = []
